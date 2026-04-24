@@ -1,0 +1,11 @@
+INFO User login successful
+ERROR Failed login attempt
+INFO File uploaded
+WARNING Disk almost full
+ERROR Unauthorized access attempt
+INFO User logout
+ERROR Failed login attempt
+ERROR Failed login attempt
+ERROR Failed login attempt
+ERROR Failed login attempt
+ERROR Failed login attempt
