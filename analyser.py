@@ -31,4 +31,4 @@ print(f"Unauthorized access attempts: {unauthorized_count}")
 
 
 if failed_login_count >= 5:
-    print("\n⚠️ Possible Brute Force Attack Detected!")
+    print("\n Possible Brute Force Attack Detected!")
